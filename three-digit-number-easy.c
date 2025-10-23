@@ -17,5 +17,5 @@ int main()
         }
     }
     printf("cnt=%d\n",cnt);
-   return 0;
+    return 0;
 }
