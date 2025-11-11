@@ -14,13 +14,11 @@ int main(){
             if(i==m){
                 printf("%d",i);
             }else{
-            printf("%d",i);                
+            printf("%d*",i);                
             }
             m=m/i;
-            printf("*");
         }
         
     }
-    printf("\b ");
     return 0;
 }
